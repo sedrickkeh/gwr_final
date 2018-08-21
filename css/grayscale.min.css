@@ -165,7 +165,6 @@
 		padding:0 0 0 2rem;
 		border-left:.5rem solid #d87402
 	}
-
 }
 .scholarship-section .scholarship-text{
 	padding:3rem;
@@ -263,7 +262,7 @@ footer{
 
 .videoWrapper {
 	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
+	padding-bottom: 53.6%; /* 16:9 */
 	padding-top: 25px;
 	height: 0;
 }
@@ -283,8 +282,15 @@ footer{
     width: 100%;
 }
 
+.coverphoto-section {
+	padding-top:2rem;
+}
+
 .coverphoto-section img {
 	max-width:100%;
   	height:auto;
   	max-height:100%;
+  	padding-bottom:3rem;
 }
+
+
