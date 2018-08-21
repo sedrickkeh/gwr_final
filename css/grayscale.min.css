@@ -185,7 +185,7 @@
 	}
 }
 .signup-section{
-	padding:4rem 0;
+	padding:6rem 0;
 	background:url(../img/bg-signup.jpg);
 	background-position:center;
 	background-repeat:no-repeat;
@@ -284,7 +284,7 @@ footer{
 
 .coverphoto-section {
 	padding-top:5rem;
-	padding-bottom:5rem;
+	padding-bottom:3rem;
 }
 
 .coverphoto-section img {
