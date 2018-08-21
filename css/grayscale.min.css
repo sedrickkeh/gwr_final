@@ -283,7 +283,7 @@ footer{
 }
 
 .coverphoto-section {
-	padding-top:2rem;
+	padding-top:5rem;
 }
 
 .coverphoto-section img {
@@ -293,4 +293,7 @@ footer{
   	padding-bottom:3rem;
 }
 
-
+.contact-section a {
+	color: #ffffff;
+	text-decoration: underline;
+}
