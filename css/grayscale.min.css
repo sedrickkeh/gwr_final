@@ -10,8 +10,8 @@
  #mainNav .navbar-toggler{
  	font-size:80%;
  	padding:.75rem;
- 	color:#d87402;
- 	border:1px solid #d87402
+ 	color:#fa6500;
+ 	border:1px solid #fa6500
  }
  #mainNav .navbar-toggler:focus{
  	outline:0
@@ -22,7 +22,7 @@
  	padding:.9rem 0
  }
  #mainNav .navbar-nav .nav-item:hover{
- 	color:fade(white,80%);
+ 	color:#000000;
  	outline:0;
  	background-color:transparent
  }
@@ -41,18 +41,18 @@
 	}
  	#mainNav .navbar-brand{
  		padding:.5rem 0;
- 		color:rgba(255,255,255,.5)
+ 		color:#000000
  	}
  	#mainNav .nav-link{
  		transition:none;
  		padding:2rem 1.5rem;
- 		color:rgba(255,255,255,.5)
+ 		color:#000000
  	}
  	#mainNav .nav-link:hover{
- 		color:rgba(255,255,255,.75)
+ 		color:#000000
  	}
  	#mainNav .nav-link:active{
- 		color:#fff
+ 		color:#000000
  	}
  	#mainNav.navbar-shrink{
  		background-color:#fff
@@ -66,15 +66,15 @@
  		border-bottom:.25rem solid transparent
  	}
  	#mainNav.navbar-shrink .nav-link:hover{
- 		color:#d87402
+ 		color:#fa6500
  	}
  	#mainNav.navbar-shrink .nav-link:active{
  		color:#467370
  	}
  	#mainNav.navbar-shrink .nav-link.active{
- 		color:#d87402;
+ 		color:#fa6500;
  		outline:0;
- 		border-bottom:.25rem solid #d87402
+ 		border-bottom:.25rem solid #fa6500
  	}
  }
 .masthead{
@@ -133,7 +133,7 @@
 	border:0
 }
 .btn-primary{
-	background-color:#d87402
+	background-color:#fa6500
 }
 .btn-primary:hover{
 	background-color:#9b5301
@@ -155,7 +155,7 @@
 }
 .scholarship-section{
 	padding:4rem 0;
-	background:#d87402;
+	background:#fa6500;
 }
 .scholarship-section .featured-text{
 	padding:2rem
@@ -163,7 +163,7 @@
 @media (min-width:992px){
 	.scholarship-section .featured-text{
 		padding:0 0 0 2rem;
-		border-left:.5rem solid #d87402
+		border-left:.5rem solid #fa6500
 	}
 }
 .scholarship-section .scholarship-text{
@@ -179,13 +179,13 @@
 		padding:5rem
 	}
 	.scholarship-section .scholarship-text hr{
-		border-color:#d87402;
+		border-color:#fa6500;
 		border-width:.25rem;
 		width:30%
 	}
 }
 .signup-section{
-	padding:6rem 0;
+	padding:8rem 0;
 	background:url(../img/bg-signup.jpg);
 	background-position:center;
 	background-repeat:no-repeat;
@@ -207,7 +207,7 @@
 .contact-section{
 	padding-top:10rem;
 	padding-bottom:5rem;
-	background:#d87402
+	background:#fa6500
 }
 
 .contact-section .btn {
@@ -239,7 +239,7 @@ body{
 	letter-spacing:.0625em
 }
 a{
-	color:#d87402
+	color:#fa6500
 }
 a:focus,a:hover{
 	text-decoration:none;
@@ -250,10 +250,10 @@ a:focus,a:hover{
 	background-color:#161616!important
 }
 .bg-primary{
-	background-color:#d87402!important
+	background-color:#fa6500!important
 }
 .text-primary{
-	color:#d87402!important
+	color:#fa6500!important
 }
 
 footer{
@@ -294,7 +294,7 @@ footer{
 }
 
 .coverphoto-section h6 {
-	color:#d87402!important
+	color:#fa6500!important
 	font-size: 50vh;
 }
 
