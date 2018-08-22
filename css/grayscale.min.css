@@ -284,7 +284,6 @@ footer{
 
 .coverphoto-section {
 	padding-top:5rem;
-	padding-bottom:3rem;
 }
 
 .coverphoto-section img {
@@ -292,6 +291,11 @@ footer{
   	height:auto;
   	max-height:100%;
   	padding-bottom:3rem;
+}
+
+.coverphoto-section h6 {
+	color:#d87402!important
+	font-size: 50vh;
 }
 
 .contact-section a {
