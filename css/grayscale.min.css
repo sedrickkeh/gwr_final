@@ -302,3 +302,31 @@ footer{
 	color: #ffffff;
 	text-decoration: underline;
 }
+
+.header-section {
+	background-color: #003366;
+}
+
+.footer-section {
+	background-color: #003366;
+}
+
+footer a {
+	color: #ffffff;
+}
+
+.footer-text {
+	font-size:9pt;
+}
+
+.social {
+	float:right;
+}
+
+header {
+	height:12px; !important;
+}
+
+.search-icon {
+	padding-top:1.5rem;
+}
